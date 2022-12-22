@@ -1,6 +1,6 @@
 {
-    "name": "uas_mobile_dherisma",
-    "short_name": "uas_mobile_dherisma",
+    "name": "flutter_api",
+    "short_name": "flutter_api",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

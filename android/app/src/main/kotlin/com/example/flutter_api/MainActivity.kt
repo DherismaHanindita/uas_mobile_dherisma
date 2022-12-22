@@ -1,4 +1,4 @@
-package com.example.uas_mobile_dherisma
+package com.example.flutter_api
 
 import io.flutter.embedding.android.FlutterActivity
 
