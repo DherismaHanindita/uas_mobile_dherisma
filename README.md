@@ -1,6 +1,8 @@
 # flutter_api
 
-A new Flutter project.
+Dherisma Hanindita Utami
+2041720018 / 06
+TI 3H
 
 ## Getting Started
 
