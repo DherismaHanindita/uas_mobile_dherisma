@@ -10,7 +10,7 @@ import 'network/crud_helper.dart';
 
 class Home extends StatefulWidget {
   const Home({
-    super.key,
+    super.key, 
   });
 
   @override

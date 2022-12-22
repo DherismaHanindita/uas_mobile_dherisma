@@ -5,7 +5,7 @@ class Category {
   Category({
     required this.id,
     required this.name,
-  });
+  }); 
 
   Category.fromJson(Map json)
       : id = json['id'],

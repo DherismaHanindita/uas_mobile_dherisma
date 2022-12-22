@@ -8,7 +8,7 @@ class Register extends StatefulWidget {
   @override
   State<Register> createState() => _RegisterState();
 }
-
+    
 class _RegisterState extends State<Register> {
   doRegister() async {
     final name = txtName.text;
